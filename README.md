@@ -1,2 +1,2 @@
 # Text-Prediction-RNN
-RNN code to predict text (input .txt file)
+RNN Jupyter Notebook python code to predict text (input .txt file)
